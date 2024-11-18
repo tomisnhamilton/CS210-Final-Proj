@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/tomishamilton/Library/CloudStorage/OneDrive-afacademy.af.edu/Documents/USAFA/Academic Year/Fall 2023/CS210/finproj-bouvier-CounterSpective",
+      "program": "/Users/tomishamilton/Library/CloudStorage/OneDrive-afacademy.af.edu/Documents/USAFA/Academic Year/Fall 2023/CS210/finproj-bouvier-CounterSpective/build/Debug/outDebug"
+    }
+  ]
+}
